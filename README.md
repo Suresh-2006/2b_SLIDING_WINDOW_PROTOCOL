@@ -19,7 +19,7 @@
 ![image](https://github.com/Suresh-2006/2b_SLIDING_WINDOW_PROTOCOL/assets/149347611/b7bbbcea-d938-4b92-ac88-13b1d356211e)
 
 ## SERVER:
-![image](https://github.com/Suresh-2006/2b_SLIDING_WINDOW_PROTOCOL/assets/149347611/73675e05-28c5-4497-975b-1221971da8c5)
+![image](https://github.com/Suresh-2006/2b_SLIDING_WINDOW_PROTOCOL/assets/149347611/6868603d-ccf6-4b32-8d8b-073c6ed0bd52)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
